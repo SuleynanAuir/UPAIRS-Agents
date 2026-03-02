@@ -1,4 +1,4 @@
-# UPARIS-DS: Uncertainty-Aware Paragraph-Level Iterative Reflective Search
+# UPARIS-DSAgents: Uncertainty-Aware Paragraph-Level Iterative Reflective Deep Search
 
 <!-- 项目基础信息 -->
 [![Version](https://img.shields.io/badge/version-2.0.0-blue.svg)](./README.md)
@@ -44,7 +44,7 @@ A comprehensive multi-agent system for conducting deep, reflective research with
 
 **核心创新点标签**:
 
-🔄 `段落级迭代反思` | 🎯 `反思压力模型` | 🧠 `8智能体协作` | 📊 `不确定性量化` | ⚡ `智能预算分配` | 🎨 `源质量评分` | 🔍 `去噪重排序`
+🔄 `段落级迭代反思` | 🎯 `反思压力模型` | 🧠 `智能体协作` | 📊 `不确定性量化` | ⚡ `智能预算分配` | 🎨 `源质量评分` | 🔍 `去噪重排序`
 
 **8个Agents身份标识**:
 
@@ -67,8 +67,6 @@ A comprehensive multi-agent system for conducting deep, reflective research with
 
 
 > 📖 **Complete Documentation**: For comprehensive technical documentation including deployment guides, agents framework architecture, innovations, and computational logic, please refer to:
-> - [中文完整文档 (Chinese Full Documentation)](./README_CN.md)
-> - [English Full Documentation](./README_EN.md)
 
 > ✅ 2026-03 更新：当前默认入口已切换到 `controller_fast.py`（`main.py` 内部已使用），以下“快速使用”与现有代码保持一致。
 
